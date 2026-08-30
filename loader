@@ -1,1 +1,1 @@
-print("ricky skid")
+loadstring(game:HttpGet("https://vonalia.com/api/v1/scripts/1786818333565"))()
